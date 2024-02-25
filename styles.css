@@ -1,0 +1,516 @@
+
+#container1 {
+   display:flex;
+   /* align-items: center; */
+   /* justify-content: center; */
+   /* background-color: aqua; */
+   flex-direction: column;
+   /* margin-left: 400px; */
+   margin: 0;
+   overflow: hidden;
+   /* text-align: center; */
+   
+}
+
+#container1:hover {
+
+}
+
+
+h1{
+    color:red;
+    text-align: center;
+    text-decoration: overline;
+  
+
+    
+}
+
+h2{
+    text-align: center;
+    text-decoration:underline;
+    color: red;
+}
+
+.tenminsite{
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/background3.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    position: center;
+}
+
+.button1:hover{
+    background-color: white;
+    border-radius: 20px;
+    color:darkgoldenrod;
+    text-decoration-style: wavy;
+    
+    
+}
+.tenminsite a {
+    color: black;
+    background-color: yellow;
+}
+
+.creative-agency {
+    /* flex-direction: column; */
+    /* background-color: chartreuse; */
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/backgroundjpg.jpg);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    position: center;
+    
+}
+
+.button2:hover{
+    background-color: yellow;
+    border-radius: 20px;
+    color: black;
+    text-decoration-style: wavy;
+    
+}
+
+.creative-agency a{
+    color: red;
+    background-color: white;
+    
+}
+
+.web-vid-background {
+    /* flex-direction: column; */
+    /* background-color: chartreuse; */
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/abstract.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    position: center;
+}
+
+.web-vid-background a {
+    color: whitesmoke;
+    background-color: black;
+    /* position: absolute; */
+}
+
+.button3:hover {
+    background-color: lightblue;
+    border-radius: 30px;
+    color: red;
+    text-decoration-style: wavy;
+   
+}
+.Loruki {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/loruki.webp);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    position: center;
+}
+
+.button4:hover {
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+    text-decoration-style: wavy;
+}
+
+.Loruki a {
+    color: blue;
+    background-color: white
+}
+
+.Grid-Crash {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/gridcrash.webp);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+
+}
+
+.button5:hover {
+    background-color: lightyellow;
+    border-radius: 30px;
+    color: blue;
+    text-decoration-style: wavy;
+}
+
+.Grid-Crash a {
+    color: lightblue;
+    background-color: blue;
+}
+
+.CC-Site {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/cc-site.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+   
+}
+
+.CC-Site a {
+    color: black !important;
+    background-color: aliceblue;
+}
+
+.button6:hover {
+    background-color: lightblue;
+    border-radius: 30px;
+    color:blue;
+    text-decoration-style: wavy;
+    
+}
+
+
+
+
+.Expanding-Cards {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/expanding-cards.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    
+}
+
+.Expanding-Cards a{
+    color: red;
+    background-color: whitesmoke;
+}
+
+.button7:hover {
+    background-color: black;
+    border-radius: 30px;
+    color: pink;
+    text-decoration-style: wavy;
+}
+
+.Rotating-Navigation {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/rotating-navigation.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+}
+
+.Rotating-Navigation a{
+    color: White;
+    background-color: red;
+}
+
+.button8:hover {
+    background-color: white;
+    border-radius: 30px;
+    color:red;
+    text-decoration-style: wavy;
+}
+.Blurry-Loading {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/blurry-loading.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+} 
+
+.Blurry-Loading a {
+    color: black;
+    background-color: yellow;
+}
+
+.button9:hover {
+    background-color: black;
+    color: yellow;
+    border-radius: 30px;
+    text-decoration-style: wavy;
+}
+
+.Scroll-Animation {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/scroll-animation.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+} 
+
+.button10:hover {
+    background-color: white;
+    color: blue;
+    border-radius: 30px;
+    text-decoration-style: wavy;
+}
+
+.Scroll-Animation a {
+    color: white;
+    background-color: blue;
+}
+
+ .Split-Landing-Page {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/Split-Landing-Page.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+}  
+.Split-Landing-Page a {
+    color: green;
+    background-color: yellow;
+}
+
+.button11:hover {
+    background-color: green;
+    color: yellow;
+    border-radius: 30px;
+    text-decoration-style: wavy;
+}
+ .Form-Input-Wave {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/form-input-wave.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+} 
+
+.Form-Input-Wave a {
+    color: red;
+    background-color: white;
+}
+
+.button12:hover {
+    background-color:red;
+    color: white;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
+ 
+ .Sound-Board {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/sound-board.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+} 
+
+.Sound-Board a {
+    color: white;
+    background-color: black;
+}
+
+.button13:hover {
+background-color: white;
+color: black;
+text-decoration-style:wavy;
+}
+ .Dad-Jokes {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/dad-jokes.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+} 
+
+.Dad-Jokes a {
+    color: red;
+    background-color: aqua;
+}
+
+.button14:hover {
+    background-color: red;
+    color:aqua;
+    border-radius: 30px;
+    text-decoration-style: wavy;
+}
+ .Animated-Navigation {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/animated-navigation.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+} 
+
+.Animated-Navigation a {
+    color: white;
+    background-color: black;
+}
+
+.button15:hover {
+    background-color: white;
+    color: black;
+    text-decoration-style: wavy;
+}
+ .Incrementing-Counter {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/incrementing-counter.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+} 
+
+.Incrementing-Counter a {
+    color: yellow;
+    background-color: black;
+}
+
+.button16:hover {
+    background-color: yellow;
+    color: black;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
+ .Drink-Water {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/drink-water.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+} 
+
+.Drink-Water a {
+    color: white;
+    background-color: black;
+}
+
+.button17:hover {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
+ .Background-Slider {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/slider.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    /* position: center; */
+} 
+
+.Background-Slider a {
+    color: green;
+    background-color: aliceblue;
+}
+
+.button18:hover {
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
+
+.Movie-App {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/movie-appp.webp);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    
+    
+    /* position: center; */
+    
+} 
+
+.Movie-App a {
+    color: red;
+    background-color: yellow;
+}
+
+.button19:hover {
+    background-color: red;
+    color: yellow;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
+.Theme-Clock {
+    height: 120px;
+    margin: auto;
+    background-image: url(./images/theme-clock.avif);
+    text-align: center;
+    border: solid black;
+    /* object-fit: cover; */
+    /* position:absolute; */
+    width: 100%;
+    
+    
+    /* position: center; */
+    
+} 
+
+.Theme-Clock a {
+    color: white;
+    background-color: brown;
+}
+
+.button20:hover {
+    background-color: white;
+    color: brown;
+    border-radius: 30px;
+    text-decoration-style:wavy;
+}
